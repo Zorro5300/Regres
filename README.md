@@ -69,8 +69,8 @@
 | Ridge  | PCA | — | — | — | — |
 
 > Таблица заполняется автоматически при запуске ноутбука.
-<img width="805" height="547" alt="6" src="https://github.com/user-attachments/assets/07b9447d-f8df-49a5-b7d6-1a96f4c893cb" />
 <img width="1389" height="1025" alt="1" src="https://github.com/user-attachments/assets/d4733b31-6d3b-4ecd-8e29-f0b7148f7a1a" />
+<img width="805" height="547" alt="6" src="https://github.com/user-attachments/assets/07b9447d-f8df-49a5-b7d6-1a96f4c893cb" />
 <img width="781" height="393" alt="2" src="https://github.com/user-attachments/assets/252a30b6-22ef-4f29-97e6-232007814422" />
 <img width="930" height="761" alt="3" src="https://github.com/user-attachments/assets/4db5e28e-1c4b-440b-9a7a-74aea1c59664" />
 <img width="768" height="470" alt="4" src="https://github.com/user-attachments/assets/84e82447-f9ca-452e-b478-c9eca4c196d9" />
