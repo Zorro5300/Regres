@@ -93,6 +93,8 @@
 ### Коэффициенты МНК, Riddge и Lasso
 <img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/a9b1909a-dfb4-4f1b-8b63-76f1909fa680" />
 
+### Путь реализация Lasso
+<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/994bbe4a-4a72-4134-b982-be07bfb35d5b" />
 
 
 ---
