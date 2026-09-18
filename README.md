@@ -23,7 +23,7 @@
 
 - Целевая переменная: `MedHouseVal` (медианная стоимость дома)
 - Количество признаков: 8 (числовые)
-- Количество объектов: ~20 640
+- Количество объектов: ~20 500
 
 Датасет загружается автоматически при запуске компьютера,
 дополнительные файлы не требуются.
@@ -68,7 +68,7 @@
 | Lasso  | PCA | — | — | — | — |
 | Ridge  | PCA | — | — | — | — |
 
-> Таблица заполняется автоматически при запуске ноутбука.
+> Таблица заполняется автоматически при запуске компьютера.
 <img width="1389" height="1025" alt="1" src="https://github.com/user-attachments/assets/d4733b31-6d3b-4ecd-8e29-f0b7148f7a1a" />
 <img width="805" height="547" alt="6" src="https://github.com/user-attachments/assets/07b9447d-f8df-49a5-b7d6-1a96f4c893cb" />
 <img width="781" height="393" alt="2" src="https://github.com/user-attachments/assets/252a30b6-22ef-4f29-97e6-232007814422" />
@@ -108,14 +108,9 @@
 
 ## 🚀 Как запустить
 
-### Вариант 1. Google Colab (рекомендуется)
+### Google Colab
 
 1. Открыть [colab.research.google.com](https://colab.research.google.com)
 2. `File → Upload notebook` → выбрать `lab1_regression.ipynb`
 3. `Runtime → Run all`
 
-### Вариант 2. Jupyter Notebook локально
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn statsmodels jupyter
-jupyter notebook lab1_regression.ipynb
