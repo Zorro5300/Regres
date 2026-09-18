@@ -66,13 +66,29 @@
 | Lasso  | PCA | — | — | — | — |
 | Ridge  | PCA | — | — | — | — |
 
-> Таблица заполняется автоматически при запуске программы.
+> ### Распределения признаков (EDA)
 <img width="1389" height="1025" alt="1" src="https://github.com/user-attachments/assets/d4733b31-6d3b-4ecd-8e29-f0b7148f7a1a" />
+**Вывод:** признаки имеют разные масштабы; `MedHouseVal` скошена вправо.
+
+### Матрица корреляций
 <img width="805" height="547" alt="6" src="https://github.com/user-attachments/assets/07b9447d-f8df-49a5-b7d6-1a96f4c893cb" />
+**Вывод:** видны сильные связи между `AveRooms`, `AveBedrms`, `Households`.
+
+### Топ корреляций с целевой переменной
 <img width="781" height="393" alt="2" src="https://github.com/user-attachments/assets/252a30b6-22ef-4f29-97e6-232007814422" />
+**Вывод:** `MedInc` — самый значимый признак (корреляция ≈ 0.69).
+
+### VIF-анализ
 <img width="930" height="761" alt="3" src="https://github.com/user-attachments/assets/4db5e28e-1c4b-440b-9a7a-74aea1c59664" />
+**Вывод:** `AveRooms`, `AveBedrms`, `Households`, `Population` имеют VIF > 10.
+
+### График накопленной дисперсии PCA
 <img width="768" height="470" alt="4" src="https://github.com/user-attachments/assets/84e82447-f9ca-452e-b478-c9eca4c196d9" />
+**Вывод:** 95% дисперсии объясняется [K] компонентами.
+
+### Сравнение моделей: RMSE / R² / MAPE
 <img width="1586" height="490" alt="5" src="https://github.com/user-attachments/assets/59390fc3-4556-4975-87f9-8ebdf98d0676" />
+**Вывод:** Ridge на исходных данных показывает лучший R²;
 
 
 ---
