@@ -90,6 +90,10 @@
 <img width="1586" height="490" alt="5" src="https://github.com/user-attachments/assets/59390fc3-4556-4975-87f9-8ebdf98d0676" />
 **Вывод:** Ridge на исходных данных показывает лучший R²;
 
+### Коэффициенты МНК, Riddge и Lasso
+<img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/a9b1909a-dfb4-4f1b-8b63-76f1909fa680" />
+
+
 
 ---
 
